@@ -6,7 +6,7 @@ import
 )
 
 func main() {
-//Altro modo carino per indicare il tipo stringa in Go
-//Castare una stringa come Array di Byte
-	fmt.Println([]byte("Ciao!"))
+//Un semplice Prinln ottenuto importando la libreria
+//"fmt" 
+	fmt.Println("Ciao!")
 }
